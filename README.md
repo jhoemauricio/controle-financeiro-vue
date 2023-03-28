@@ -2,7 +2,11 @@
 
 O controle financeiro é um sistema simples com entrada, saida e saldo em caixa onde o usuário informa o valor, descrição e data do lançamento e o sistema irá informar
 se o saldo é positivo ou negativo.
-Este mini-projeto foi construído utilizando o framework ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) VueJs versão 3X
+Este mini-projeto foi construído utilizando as tecnologias:
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) VueJs versão 3X
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS3
+
 
 PARA UTILIZAR ESTE PROJETO VOCÊ IRÁ PRECISAR...
 
