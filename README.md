@@ -1,6 +1,6 @@
 # Controle-financeiro
 
-O controle financeiro é um sistema simples com entrada, saida e saldo em caixa onde o usuário informa o valor, descrição e data do lançamento e o sistema irá informar
+O controle financeiro é um sistema simples com entrada, saida e saldo em caixa onde o usuário informa o valor, descrição e data do lançamento. O sistema irá informar
 se o saldo é positivo ou negativo.
 Este mini-projeto foi construído utilizando as tecnologias:
 
